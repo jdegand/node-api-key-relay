@@ -1,7 +1,5 @@
 # Node Api Key Relay
 
-## Overview
-
 ## Table of contents
 
 - [Overview](#overview)
